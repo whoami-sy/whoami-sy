@@ -7,12 +7,11 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 
 ## 👩‍💻 Projets
  
-- [PROJET AIS - Freemotion : Refonte d'infrastructure multisite](https://github.com/<pseudo>/freemotion)
--
+- [PROJET AIS - Freemotion : Refonte d'infrastructure multisite](https://github.com/whoami-sy/freemotion)
+- [Hackathon IPSSI 2026 : Mise en haute disponibilité et la sécurisation de réseau](https://github.com/whoami-sy/hackathon26)
 - 
 
 ## Compétences
- 
 - Windows Server, Active Directory
 - Linux
 - pfSense, VPN IPsec, Suricata
@@ -27,25 +26,4 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 - Baccalauréat Général (spécialité : Mathématiques & Physique-Chimie)
 
 ## ​🤳​​Contact
-
- https://www.flaticon.com/fr/icone-gratuite/linkedin_174857
 - [LinkedIn] : www.linkedin.com/in/syliasifflet
-
-[<img align="left" alt="Sylia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: www.linkedin.com/in/syliasifflet
-
-
-<!--
-**whoami-sy/whoami-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

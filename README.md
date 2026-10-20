@@ -26,4 +26,4 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 - Baccalauréat Général (spécialité : Mathématiques & Physique-Chimie)
 
 ## ​🤳​​Contact
-- [LinkedIn] : www.linkedin.com/in/syliasifflet
+- **[LinkedIn](www.linkedin.com/in/syliasifflet)**

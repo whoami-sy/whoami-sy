@@ -26,14 +26,14 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 - TSSR - Technicienne Supérieure Systèmes & Réseaux
 - Baccalauréat Général (spécialité : Mathématiques & Physique-Chimie)
 
-## 📞​Contact
+## ​🤳​​Contact
 
  https://www.flaticon.com/fr/icone-gratuite/linkedin_174857
 - [LinkedIn] : www.linkedin.com/in/syliasifflet
 
-<p align="center">
-  <img src="assets/Linkedin_Icon.webp" alt="Linkedin" width="700">
-</p>
+[<img align="left" alt="Sylia | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[linkedin]: www.linkedin.com/in/syliasifflet
+
 
 <!--
 **whoami-sy/whoami-sy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

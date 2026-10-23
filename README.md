@@ -7,7 +7,7 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 
 
 ## 👩‍💻 Projets
-<!-- - [PROJET AIS - Freemotion : Refonte d'infrastructure multisite](https://github.com/whoami-sy/freemotion) -->
+[PROJET AIS - Freemotion : Refonte d'infrastructure multisite](https://github.com/whoami-sy/ProjetAIS-Freemotion)
 <!-- - [Hackathon IPSSI 2026 : Mise en haute disponibilité et la sécurisation de réseau](https://github.com/whoami-sy/hackathon26) -->
 
 ## Compétences

@@ -20,7 +20,7 @@ Ce profil rassemble les projets réalisés pendant ma formation, documentés sou
 
 ## 👩‍🎓​ Formation
 - Master Cybersécurité & Cloud - Ipssi (en cours)
-- Bachelor AIS - Administrateur d'Infrastructures Sécurisées
+- Bachelor AIS - Administrateur d'Infrastructures Sécurisées - Ipssi
 - TSSR - Technicienne Supérieure Systèmes & Réseaux
 - Baccalauréat Général (spécialité : Mathématiques & Physique-Chimie)
 
